@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "JustBlog"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-JustBlog-32d8f078-8e7a-4b5c-bf75-5df3d23347c9;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
